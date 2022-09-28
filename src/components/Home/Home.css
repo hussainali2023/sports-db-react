@@ -1,0 +1,26 @@
+.home-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  margin: 5px 20px;
+}
+.input-area {
+  width: 50%;
+  padding: 7px;
+  margin-right: 5px;
+}
+.btn-search {
+  background-color: orange;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+.cart-container {
+  border: 1px solid gray;
+  box-shadow: 4px 4px 8px gray;
+  border-radius: 5px;
+  padding: 5px;
+  position: sticky;
+}

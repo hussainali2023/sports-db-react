@@ -1,0 +1,23 @@
+.single-player {
+  border: 2px solid gray;
+  border-radius: 10px;
+  text-align: center;
+  padding: 30px;
+}
+.single-player img {
+  height: 300px;
+  width: 250px;
+}
+.single-player button {
+  padding: 8px 15px;
+  background-color: rgb(243, 188, 87);
+  border: none;
+  border-radius: 5px;
+  color: White;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.single-player button:hover {
+  cursor: pointer;
+  background-color: orange;
+}
